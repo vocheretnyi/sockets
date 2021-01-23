@@ -1,4 +1,4 @@
-# Lab 1 (Operating Systems)
+# Sockets
 
 - Language - C
 - Platform - Linux (Ubuntu 20.04)
